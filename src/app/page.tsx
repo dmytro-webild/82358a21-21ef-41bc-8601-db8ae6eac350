@@ -69,7 +69,7 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "1",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-brown-suit-posing-near-dark-wall_158538-11158.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-brown-suit-posing-near-dark-wall_158538-11158.jpg?_wi=1",
           imageAlt: "urban fashion model stylish man",
         },
         {
@@ -124,7 +124,7 @@ export default function LandingPage() {
           name: "Camisetas Premium",
           price: "A partir de R$ 89",
           variant: "Streetwear",
-          imageSrc: "http://img.b2bpic.net/free-photo/light-brown-beige-pants-indoors-still-life_23-2150756308.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/light-brown-beige-pants-indoors-still-life_23-2150756308.jpg?_wi=1",
           imageAlt: "modern t-shirt fashion photography",
         },
         {
@@ -189,7 +189,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-man-street-outfit_1303-19662.jpg",
             imageAlt: "masculine luxury fashion store aesthetic",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-brown-suit-posing-near-dark-wall_158538-11158.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-brown-suit-posing-near-dark-wall_158538-11158.jpg?_wi=2",
           imageAlt: "masculine luxury fashion store aesthetic",
         },
         {
@@ -203,7 +203,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/full-shot-rich-woman-home_23-2149722577.jpg",
             imageAlt: "masculine luxury fashion store aesthetic",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/light-brown-beige-pants-indoors-still-life_23-2150756308.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/light-brown-beige-pants-indoors-still-life_23-2150756308.jpg?_wi=2",
           imageAlt: "masculine luxury fashion store aesthetic",
         },
         {
@@ -217,7 +217,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/atelier-shop-full-sartorial-outfits_482257-90452.jpg",
             imageAlt: "masculine luxury fashion store aesthetic",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/handsome-tattoed-male-with-stylish-haircut-beard-gray-t-shirt-standing-leaning-against-brick-wall-room-with-loft-interior_613910-3912.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/handsome-tattoed-male-with-stylish-haircut-beard-gray-t-shirt-standing-leaning-against-brick-wall-room-with-loft-interior_613910-3912.jpg?_wi=1",
           imageAlt: "masculine luxury fashion store aesthetic",
         },
       ]}
@@ -238,7 +238,7 @@ export default function LandingPage() {
           quote: "Melhor loja de Contagem. Roupas de altíssima qualidade.",
           name: "Lucas S.",
           role: "Cliente",
-          imageSrc: "http://img.b2bpic.net/free-photo/handsome-tattoed-male-with-stylish-haircut-beard-gray-t-shirt-standing-leaning-against-brick-wall-room-with-loft-interior_613910-3912.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/handsome-tattoed-male-with-stylish-haircut-beard-gray-t-shirt-standing-leaning-against-brick-wall-room-with-loft-interior_613910-3912.jpg?_wi=2",
           imageAlt: "happy customer style man clothing",
         },
         {
